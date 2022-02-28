@@ -16,7 +16,7 @@ Runzhe Yang, Xingyuan Sun, Karthik Narasimhan\
 **Prediction-Guided Multi-Objective Reinforcement Learning for Continuous Robot Control**\
 Jie Xu, Yunsheng Tian, Pingchuan Ma, Daniela Rus, Shinjiro Sueda, Wojciech Matusik\
 *ICML, 2020*\
-[[paper](https://people.csail.mit.edu/jiex/papers/PGMORL/paper.pdf)]  [[supp](https://people.csail.mit.edu/jiex/papers/PGMORL/supp.pdf)]  [[video](https://people.csail.mit.edu/jiex/papers/PGMORL/video.mp4)]  [code](https://github.com/mit-gfx/PGMORL)]  [[talk](https://people.csail.mit.edu/jiex/papers/PGMORL/talk.mp4)]  [[bib](http://pgmorl.csail.mit.edu/)]
+[[paper](https://people.csail.mit.edu/jiex/papers/PGMORL/paper.pdf)]  [[supp](https://people.csail.mit.edu/jiex/papers/PGMORL/supp.pdf)]  [[video](https://people.csail.mit.edu/jiex/papers/PGMORL/video.mp4)]  [[code](https://github.com/mit-gfx/PGMORL)]  [[talk](https://people.csail.mit.edu/jiex/papers/PGMORL/talk.mp4)]  [[bib](http://pgmorl.csail.mit.edu/)]
 
 **A Constrained Multi-Objective Reinforcement Learning Framework**\
 DeepMind\
@@ -29,6 +29,13 @@ Anirudh Goyal, Riashat Islam, DJ Strouse, Zafarali Ahmed, Hugo Larochelle, Matth
 *ICLR, 2019*\
 [[paper](https://openreview.net/forum?id=rJg8yhAqKm)] [[code](https://github.com/maximecb/gym-minigrid)]
 > The idea is simply to constrain the dependence on a certain goal, by introducing $- \beta I(A ; G \mid S)$ or equivalently $- \beta D_{\mathrm{KL}}\left[\pi_{\theta}(A \mid S, G) \mid \pi_{0}(A \mid S)\right]$ in the reward function.
+
+### Multi-Task RL
+**A Survey of Multi-Task Deep Reinforcement Learning**\
+Nelson Vithayathil Varghese, Qusay H. Mahmoud\
+*Electronics, 2020*\
+[[paper](https://www.mdpi.com/2079-9292/9/9/1363)]
+
 
 ### Information Bottleneck in RL
 **Dynamic Bottleneck for Robust Self-Supervised Exploration**\
